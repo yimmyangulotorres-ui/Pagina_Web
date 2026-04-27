@@ -3,7 +3,6 @@ const ejercicios = [
 {
 titulo: "Java Stdin and Stdout I",
 codigo: `import java.util.*;
-
 /**
 @author: Yimmy Angulo
 
@@ -153,6 +152,11 @@ python         050
 titulo: "Java Loops I",
 codigo: `import java.util.Scanner;
 
+/**
+@author: Yimmy Angulo
+
+*/
+
 public class tabla {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
@@ -181,6 +185,11 @@ Salida:
 {
 titulo: "Java Loops II",
 codigo: `import java.util.Scanner;
+
+/**
+@author: Yimmy Angulo
+
+*/
 
 public class multi_2 {
     public static void main(String[] args) {
@@ -222,6 +231,11 @@ Salida:
 titulo: "Java Datatypes",
 codigo: `import java.util.*;
 
+/**
+@author: Yimmy Angulo
+
+*/
+
 public class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -262,6 +276,11 @@ Salida:
 titulo: "Java End-of-file",
 codigo: `import java.util.Scanner;
 
+/**
+@author: Yimmy Angulo
+
+*/
+
 public class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -289,6 +308,11 @@ Salida:
 {
 titulo: "Java Static Initializer Block",
 codigo: `import java.util.Scanner;
+
+/**
+@author: Yimmy Angulo
+
+*/
 
 public class Solution {
 
@@ -327,6 +351,11 @@ Salida:
 titulo: "Java Int to String",
 codigo: `import java.util.*;
 
+/**
+@author: Yimmy Angulo
+
+*/
+
 public class Solution {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -356,6 +385,11 @@ Good job
 titulo: "Java Date and Time",
 codigo: `import java.util.*;
 import java.text.*;
+
+/**
+@author: Yimmy Angulo
+
+*/
 
 public class Solution {
 
@@ -399,6 +433,11 @@ titulo: "Java Currency Formatter",
 codigo: `import java.util.*; 
 import java.text.*;
 
+/**
+@author: Yimmy Angulo
+
+*/
+
 public class Solution {
 
     public static void main(String[] args) {
@@ -436,6 +475,11 @@ France: 12 324,13 €
 {
 titulo: "Java Strings Introduction",
 codigo: `import java.util.*;
+
+/**
+@author: Yimmy Angulo
+
+*/
 
 public class Solution {
 
@@ -477,6 +521,11 @@ Hello Java
 titulo: "Java Substring",
 codigo: `import java.util.*;
 
+/**
+@author: Yimmy Angulo
+
+*/
+
 public class Solution {
 
     public static void main(String[] args) {
@@ -507,6 +556,11 @@ Hacker
 {
 titulo: "Java Substring Comparisons",
 codigo: `import java.util.*;
+
+/**
+@author: Yimmy Angulo
+
+*/
 
 public class Solution {
 
@@ -556,6 +610,11 @@ wel
 {
 titulo: "Java String Reverse",
 codigo: `import java.util.*;
+
+/**
+@author: Yimmy Angulo
+
+*/
 
 public class Solution {
     public static void main(String[] args) {
