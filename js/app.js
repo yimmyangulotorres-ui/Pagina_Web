@@ -4,6 +4,11 @@ const ejercicios = [
 titulo: "Java Stdin and Stdout I",
 codigo: `import java.util.*;
 
+/**
+@author: Yimmy Angulo
+
+*/
+
 public class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -34,6 +39,11 @@ Salida:
 {
 titulo: "Java If-Else",
 codigo: `import java.util.Scanner;
+
+/**
+@author: Yimmy Angulo
+
+*/
 
 public class Ejercicio2 {
     public static void main(String[] args) {
@@ -70,6 +80,11 @@ Not Weird
 titulo: "Java Stdin and Stdout II",
 codigo: `import java.util.Scanner;
 
+/**
+@author: Yimmy Angulo
+
+*/
+
 public class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -101,6 +116,11 @@ Int: 42
 {
 titulo: "Java Output Formatting",
 codigo: `import java.util.Scanner;
+
+/**
+@author: Yimmy Angulo
+
+*/
 
 public class Solution {
     public static void main(String[] args) {
